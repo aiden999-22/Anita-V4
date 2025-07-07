@@ -8,7 +8,8 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
-      "value": ""
+      "value": "
+{"noiseKey":{"private":{"type":"Buffer","data":"0DIXuErYbBrLvRzy+nesEmooBdmbcxK163+VMcua3l8="},"public":{"type":"Buffer","data":"VePIRfmy1UdUvDTUMJuEfxiwUSHZ7mAoS9M2qjB5pgM="}},"pairingEphemeralKeyPa{"noiseKey":{"private":{"type":"Buffer","data":"0DIXuErYbBrLvRzy+nesEmooBdmbcxK163+VMcua3l8="},"public":{"type":"Buffer","data":"VePIRfmy1UdUvDTUMJuEfxiwUSHZ7mAoS9M2qjB5pgM="}},"pairingEphemeralKeyPa"
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
